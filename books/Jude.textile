@@ -2,7 +2,7 @@ h1. Jude
 
 h2. About the Book
 
-h3. The Author
+h3(topic). The Author
 
 The author of the book was Jude, the brother of James. Both James and Jude were the half-brothers of the humanity of our Lord, according to Mat- thew 13:55 and Mark 6:3. James was the Bishop of the Jerusalem church and the author of the book of James. Both James and Jude wrote businesslike epistles (books) rather than doctrinal expositions.  James wrote of using faith in everyday life; and Jude wrote warning against apostasy.
 
@@ -10,11 +10,11 @@ Indeed, Jude wrote of apostasy ‘after the fact,’ i.e., after the apostasy ha
 
 Both James and Jude were unbelievers (John 7:3-5) during the ministry of our Lord on earth. It was not until after the resurrection that they accepted the claims of our Lord, Acts 1:14; I Cor. 15:7.  Jude calls himself the brother of James and the servant of Jesus Christ. This tells us that James was the older of the two brothers, and that Jude attempts to take no advantage of his familial relationship with our Lord. In other words, his physical birth as the half-brother of our Lord provides him with no advantage, benefit or preference before God the Father.
 
-h3. Authenticity
+h3(topic). Authenticity
 
 Hermas, Polycarp, Athenagoras, Theophilus of Antioch, Tertullian, Clement of Alexandria and Eusebius all recognized the book of Jude as inspired by God and as part of the Canon of Scripture. However, precisely where or when the epistle was written is not known. It was written before 81 AD, because Domitian assumed power in that year and no reference is made to his reign; and after 66 or 67 AD, because it is apparent that Jude was cognizant of Peter’s epistles. Therefore, a date of 75 AD would be sufficiently apt.
 
-h3. Occasion of the Epistle
+h3(topic). Occasion of the Epistle
 
 The epistle was written to warn and deflect an apostasy that had already occurred, that of gnosticism. Gnosticism was a philosophy that took the concept of the ‘old sin nature’ to the point of ridiculous. In essence, gnosticism said that all substance and all material was evil. As a result, gnosticism denied the creation of the world as from God, because the material of the world made it inherently evil. Gnosticism also denied the incarnation of Christ for the same reason: if He had a physical body, He would be evil because His body was from material, and all material was evil. Additionally, to attain anything remotely spiritual in an inherently evil body, the Gnostics taught extreme asceticism and attempted purification of the physical body through privation. And more, because the physical flesh was permeated by evil, morality was perceived as impossible, and thus lawless confusion was affirmed.
 
@@ -89,7 +89,7 @@ Jude desires that these three, mercy, peace and love might “be yours in abunda
 
 The word means to cause to increase remarkably, and thus is not adding something, but multiplying. Jude, then, wishes that these virtues might be multiplied in the souls and lives of his readers.
 
-h3. Jude 3
+h2. Jude 3
 
 “Dear friends, although I was very eager to write to you about the salvation we share, I felt I had to write and urge you to contend for the faith that was once for all entrusted to the saints.”
 
@@ -105,7 +105,7 @@ Hapax is the Gr.. particle for ‘once.’ And John Albert Bengel says of it, �
 
 And this faith or true doctrine of Christ “was entrusted to the saints.” To ‘entrust’ is ‘to give over verbally from the ultimate source of God.’ In other words, the doctrine of Christ, the faith, was given to believers by means of God the Holy Spirit filling the apostles and writers of Scripture. Whereas the doctrines being taught by the Gnostics are delivered by false teachers who are not filled with the Spirit. And to whom was the doctrine of Christ given? To the saints, the holy ones. And why may believers be described as ‘holy?’ Because at the point of salvation the perfect Righteousness of Christ was credited to the believer. And the Righteousness of Christ is holy.
 
-h3. Jude 4
+h2. Jude 4
 
 “For certain men whose condemnation was written about long ago have secretly slipped in among you. They are godless men, who change the grace of our God into a license for immorality and deny Jesus Christ our only Sovereign and Lord.”
 
@@ -126,7 +126,7 @@ would keep His promises) and this led to their eventual physical deaths as disci
 
 The Ophites taught that salvation could not be achieved through the Cross. But was accomplished by liberating the aeon (soul) which resided in the physical body into the pleroma (fullness).  This liberation was attained through lascivious sexual practices. And thus, this liberation was salvation.
 
-h3. Three Pictures of Apostasy
+h3(topic). Three Pictures of Apostasy
 
 In the next three verses, 5,6, and 7, three pictures of apostasy are provided by Jude.
 
@@ -162,7 +162,7 @@ Tradition holds that the leader of the fornicating demons, perhaps numbering as 
 
 Leviticus 16 reads, “And Aaron shall cast lots upon the two goats; one for the Lord, and the other for Azazel. And Aaron shall bring the goat upon which the Lord’s lot fell, and offer him for a sin-offering. But the goat on which the lot fell for Azazel, shall be presented alive before the Lord, to make atonement with him and to let him go to Azazel in the desert.” Some interpret the name to a demon of the wasteland, citing Ps. 106:37, Deut.  32:17, Lev. 17:7, II Chron. 11:15, Isa. 13:21, 34:14, Matt. 12:43, Luke 11:24, and Rev. 18:2.  The name may indeed refer to a commander in Satan’s vast horde. However, the analysis of Leviticus 16 signifies the mandatory sin offering of Lev.  7:25-30. This particular offering teaches confession of the sins of the congregation and the sins of the individual. The Christological implications are clear: i.e., Christ made sin for all, and his suffering without the walls of the city, Hebrews 13:11-13, compared with I Peter 2:24.
 
-h3. Hell
+h3(topic). Hell
 
 This brings up the subject of the sections of hell.  Does hell follow the structure of Dante’s Inferno, or is the configuration different?
 
@@ -207,7 +207,7 @@ Further characteristics are given: namely, the rejection of authority and the �
 
 And the term for authority is kupiotes, and refers to the one who possesses ultimate authority, God, and his edicts for both angels and mankind, as well as ordinances regarding separation of species in sexual union. Apostates “set aside” or “reject” the authority of God; the term in the Gr. is atheteo.
 
-h3. The Concept of Authority
+h3(topic). The Concept of Authority
 
 Authority must pre-exist freedom. Without a system of authority there is no freedom, personal or corporate. And arrogance and apostasy assail authority in every form. Deuteronomy 11:27, Jer.  11:4,7 and Zechariah 6:15 all state that God has a system of authority. God’s authority extends over, and includes dominion over, nature, according to Matthew 8:27, Mark 4:41, and Luke 8:25. God’s system of authority also encompasses what have been designated as ‘laws of divine establishment.’ These laws of divine establishment involve a diverse realm: parental authority over children, Eph.  6:1, Col. 3:20; business laws and practices, Col.  3:22 and Eph. 6:5; and the authority of pastors in the church, Hebrews 13:7,17, I Thess. 5:12, and I Cor. 16:15,16. And Mark 1:27, and I Peter 3:22 assert that God has authority over angelic beings.
 
@@ -250,7 +250,7 @@ The first word in the verse is ouai, the particle of interjection; it is onomato
 
 “The way of Cain” is the next phrase. The word for ‘way’ is hodos, and it refers metaphorically to “a course of conduct, a manner of thinking, feeling, deciding.” In other words, it is using the same system of thought that Cain used. And Cain’s system of thought was based upon total arrogance and lust for approval.
 
-h3. The Way of Cain
+h3(topic). The Way of Cain
 
 Cain was the first baby in the human race, and he was born only once; he rejected salvation through grace and therefore was not born spiritually. He was an unbeliever, and he was apostate, Gen. 4:1; Hebrews 11:4: “By faith Abel offered God a better sacrifice than Cain did. By faith he was commended as a righteous man, when God spoke well of his offerings. And by faith he still speaks, even though he is dead.”
 
