@@ -30,7 +30,7 @@ The outline of the book of Jude is quite simple, and is as follows:
 
 h2. Jude 1
 
-bq.:{Jude 1} “Jude, a servant of Jesus Christ and a brother of James, to those who have been called, who are loved by God the Father and kept by Jesus Christ:”
+bq.:Jude\ 1 “Jude, a servant of Jesus Christ and a brother of James, to those who have been called, who are loved by God the Father and kept by Jesus Christ:”
 
 “To those,” refers to believers in Christ; and these believers are further described as “called,” “loved by God the Father,” and “kept or preserved” in Christ. These three descriptions demand that we view each classification so that we have a lucid understanding of our status as believers.
 
