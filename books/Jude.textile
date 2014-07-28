@@ -675,6 +675,6 @@ Concerning Jude 1:25, A.T. Robertson wrote, “as complete a statement of eterni
 
 bq.:bible://john_4_24 “God is spirit, and those who worship Him must worship in Spirit and truth.” (John 4:24)
 
-b1.:bible://1cor_11_14-15 “And no wonder, for even Satan disguises himself as an angel of light. Therefore it is not surprising if his servants also disguise themselves as servants of righteousness; whose end shall be according to their deeds.” (II Corinthians 11:14,15)
+bq.:bible://1cor_11_14-15 “And no wonder, for even Satan disguises himself as an angel of light. Therefore it is not surprising if his servants also disguise themselves as servants of righteousness; whose end shall be according to their deeds.” (II Corinthians 11:14,15)
 
 fn30.  Robertson, A.T. ??Word Pictures??; from Bible Works CD by Hermeneutika; version 3.5
