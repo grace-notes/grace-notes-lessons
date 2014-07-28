@@ -1,8 +1,8 @@
-Jude
-====
+h1. Jude
 
-The Author
-----------
+h2. About the Book
+
+h3. The Author
 
 The author of the book was Jude, the brother of
 James. Both James and Jude were the half-brothers
@@ -31,8 +31,7 @@ cal birth as the half-brother of our Lord provides
 him with no advantage, benefit or preference be-
 fore God the Father.
 
-Authenticity
-------------
+h3. Authenticity
 
 Hermas, Polycarp, Athenagoras, Theophilus of
 Antioch, Tertullian, Clement of Alexandria and
@@ -46,29 +45,27 @@ after 66 or 67 AD, because it is apparent that Jude
 was cognizant of Peter’s epistles. Therefore, a date
 of 75 AD would be sufficiently apt.
 
-Occasion of the Epistle
------------------------
+h3. Occasion of the Epistle
 
 The epistle was written to warn and deflect an
 apostasy that had already occurred, that of gnosticism. Gnosticism was a philosophy that took the
 concept of the ‘old sin nature’ to the point of ridiculous. In essence, gnosticism said that all substance and all material was evil. As a result, gnosticism denied the creation of the world as from
 God, because the material of the world made it inherently evil. Gnosticism also denied the incarnation of Christ for the same reason: if He had a physical body, He would be evil because His body was from material, and all material was evil. Additionally, to attain anything remotely spiritual in an inherently evil body, the Gnostics taught extreme asceticism and attempted purification of the physical body through privation. And more, because the physical flesh was permeated by evil, morality was perceived as impossible, and thus lawless confusion was affirmed.
 
-Outline
--------
+h2. Outline
+
 The outline of the book of Jude is quite simple,
 and is as follows:
 
-  1. The introduction -- verses 1-3.
-  2. A warning against apostate teachers -- verses 4-7.
-  3. Definition and description of apostasy -- verses 8-13.
-  4. The judgment of apostate teachers -- verses 14-16.
-  5. How to defend against the teachings of apostate teachers -- verses 17-23.
+# The introduction -- verses 1-3.
+# A warning against apostate teachers -- verses 4-7.
+# Definition and description of apostasy -- verses 8-13.
+# The judgment of apostate teachers -- verses 14-16.
+# How to defend against the teachings of apostate teachers -- verses 17-23.
 
-Jude 1
-------
+h2. Jude 1
 
->“Jude, a servant of Jesus Christ and a brother of James, to those who have been called, who are loved by God the Father and kept by Jesus Christ:”
+bq.:jude1.1 “Jude, a servant of Jesus Christ and a brother of James, to those who have been called, who are loved by God the Father and kept by Jesus Christ:”
 
 “To those,” refers to believers in Christ; and these
 believers are further described as “called,” “loved
@@ -77,13 +74,11 @@ Christ. These three descriptions demand that we
 view each classification so that we have a lucid
 understanding of our status as believers.
 
-The Divine Decrees
-------------------
+h3(topic). The Divine Decrees
 
 The following two definitions of the Divine De-
 crees are offered; the first is technical, the second
-is non-technical. 1 . “The decree of God is His eter-
-nal, holy, wise, and sovereign purpose, compre-
+is non-technical. 1 . “The decree of God is His eternal, holy, wise, and sovereign purpose, compre-
 hending at once all things that ever were or will be
 -- in their causes, courses, conditions, successions,
 and relations -- and determining their certain futurition.”
@@ -182,8 +177,7 @@ every believer is placed into union with Christ.
 This means that every saint has eternal security. In
 other words, you cannot lose your salvation.
 
-Eternal Security
-----------------
+h3(topic). Eternal Security
 
 Eternal security refers to the fact that once saved,
 always saved. Even if you change your mind about
@@ -262,8 +256,7 @@ secondary way, was covered in the discussion of
 the Divine Decrees, and recently more fully in Eli-
 jah, it will not be bared here.
 
-Jude 2
-------
+h2. Jude 2
 
 “Mercy, peace and love be yours in abundance.”
 The Gk. term for mercy is eleos, and refers to grace
@@ -300,8 +293,7 @@ and thus is not adding something, but multiply-
 ing. Jude, then, wishes that these virtues might be
 multiplied in the souls and lives of his readers.
 
-Jude 3
-------
+h3. Jude 3
 
 “Dear friends, although I was very eager to write
 to you about the salvation we share, I felt I had
@@ -365,8 +357,7 @@ the point of salvation the perfect Righteousness of
 Christ was credited to the believer. And the Righ-
 teousness of Christ is holy.
 
-Jude 4
-------
+h3. Jude 4
 
 “For certain men whose condemnation was writ-
 ten about long ago have secretly slipped in
@@ -380,11 +371,11 @@ the Gr.., refers to the characteristics of the false
 teachers, the teachers of Gnosticism. These charac-
 teristics include:
 
-  - the teaching of false doctrine, I Tim. 4:1, 3:5-7
-  - the misrepresentation of themselves as apostles, II Cor. 11:13-15
-  - they are energized by demons, I Cor. 10:20-21
-  - they have charming personalities which they use to deceive, II Tim. 3:1-7
-  - they are hypocrites, Matthew 23:27-28.
+* the teaching of false doctrine, I Tim. 4:1, 3:5-7
+* the misrepresentation of themselves as apostles, II Cor. 11:13-15
+* they are energized by demons, I Cor. 10:20-21
+* they have charming personalities which they use to deceive, II Tim. 3:1-7
+* they are hypocrites, Matthew 23:27-28.
 
 Their “condemnation was written about long ago”
 refers to the writings of the Old Testament proph-
@@ -453,7 +444,7 @@ This liberation was attained through lascivious
 sexual practices. And thus, this liberation was sal-
 vation.
 
-### Three Pictures of Apostasy
+h3. Three Pictures of Apostasy
 
 In the next three verses, 5,6, and 7, three pictures
 of apostasy are provided by Jude.
@@ -480,16 +471,14 @@ ful of converts; and the citizens of Sodom and
 Gomorrah received three grace warnings: 1 - from
 the expedition of Chedorlaomer (Genesis 14:4), the
 
-Jude 5
-------
+h2. Jude 5
 
 “Though you already know all this, I want to re-
 mind you that the Lord delivered his people out
 of Egypt, but later destroyed those who did not
 believe.”
 
-Jude 6
-------
+h2. Jude 6
 
 “And the angels who did not keep their positions
 of authority but abandoned their own home --
@@ -499,9 +488,9 @@ lasting chains for judgment on the great Day.”
 Three distinct classifications of apostasy are being
 illustrated by Jude:
 
-  1. Apostate believers, verse 5.
-  2. Apostate angels, verse 6.
-  3. Apostate unbelievers, verse 7.
+# Apostate believers, verse 5.
+# Apostate angels, verse 6.
+# Apostate unbelievers, verse 7.
 
 Here, Jude utilizes the assembly of fallen angels or
 demons that had sexual relations with the women
@@ -656,7 +645,7 @@ clear: i.e., Christ made sin for all, and his suffering
 without the walls of the city, Hebrews 13:11-13,
 compared with I Peter 2:24.
 
-### Hell
+h3. Hell
 
 This brings up the subject of the sections of hell.
 Does hell follow the structure of Dante’s Inferno,
@@ -669,38 +658,40 @@ Sheol and Hades.” “Hell” refers to Sheol in the
 Hebrew, and Hades in the Greek. Hades has four
 sections:
 
-	1. The Abyss, also called the Bottomless Pit: the
-	abode of certain vicious, wild demons, having
-	been imprisoned therein for unknown rea-
-	sons. References: Luke 8:30-31; Romans 10:7;
-	Revelation 20:1-3.
-	2. Tartarus: the prison of the sensual, ange-
-	loanthropomorphic demons. I Peter 3:18-22; II
-	Peter 2:4, Jude 6. To these demons Christ
-	preached concerning his true humanity and
-	the Cross while His body was three days in
-	the tomb.
-	3. Torments, also called Hell: referred to in Luke
-	16:19-31; the abode of those guilty of the ‘un-
-	pardonable sin’ of disbelief. As Clarence Lar-
-	kin so eloquently puts it, “Still occupied.” In
-	other words, this is the holding place for un-
-	believers until they are cast into the Lake of
-	Fire for all eternity.
-	4. Paradise, also called Abraham’s Bosom: the
-	abode of Old Testament believers prior to the
-	resurrection, ascension and present session of
-	our Lord. This section was melded with hea-
-	ven subsequent to the presence of Christ at the
-	right hand of God the Father (the Session).
-	References: Ephesians 4:8,9,10; Luke 23:39-43.
-	Finally, between Paradise (Abraham’s Bosom) and
-	Torments (Hell), according to Luke 16:26, sits “a
-	great gulf fixed.” This, then, is hell and a portion
-	of its residents.
+# The Abyss, also called the Bottomless Pit: the
+abode of certain vicious, wild demons, having
+been imprisoned therein for unknown rea-
+sons. References: Luke 8:30-31; Romans 10:7;
+Revelation 20:1-3.
 
-Jude 7
-------
+# Tartarus: the prison of the sensual, ange-
+loanthropomorphic demons. I Peter 3:18-22; II
+Peter 2:4, Jude 6. To these demons Christ
+preached concerning his true humanity and
+the Cross while His body was three days in
+the tomb.
+
+# Torments, also called Hell: referred to in Luke
+16:19-31; the abode of those guilty of the ‘un-
+pardonable sin’ of disbelief. As Clarence Lar-
+kin so eloquently puts it, “Still occupied.” In
+other words, this is the holding place for un-
+believers until they are cast into the Lake of
+Fire for all eternity.
+
+# Paradise, also called Abraham’s Bosom: the
+abode of Old Testament believers prior to the
+resurrection, ascension and present session of
+our Lord. This section was melded with hea-
+ven subsequent to the presence of Christ at the
+right hand of God the Father (the Session).
+References: Ephesians 4:8,9,10; Luke 23:39-43.
+Finally, between Paradise (Abraham’s Bosom) and
+Torments (Hell), according to Luke 16:26, sits “a
+great gulf fixed.” This, then, is hell and a portion
+of its residents.
+
+h2. Jude 7
 
 “In a similar way, Sodom and Gomorrah and the
 surrounding towns gave themselves up to sex-
@@ -833,8 +824,7 @@ they lack the perfect righteousness of God, which
 righteousness is achieved only by belief in our
 Lord Jesus Christ.
 
-Jude 8
-------
+h2. Jude 8
 
 “In the very same way, these dreamers pollute
 their own bodies, reject authority and slander
@@ -880,7 +870,7 @@ well as ordinances regarding separation of species
 in sexual union. Apostates “set aside” or “reject”
 the authority of God; the term in the Gr. is atheteo.
 
-### The Concept of Authority
+h3. The Concept of Authority
 
 Authority must pre-exist freedom. Without a sys-
 tem of authority there is no freedom, personal or
@@ -900,8 +890,7 @@ the church, Hebrews 13:7,17, I Thess. 5:12, and I
 Cor. 16:15,16. And Mark 1:27, and I Peter 3:22 as-
 sert that God has authority over angelic beings.
 
-Jude 9
-------
+h2. Jude 9
 
 “But even the archangel Michael, when he was
 disputing with the devil about the body of Mos-
@@ -978,8 +967,7 @@ God. He does not doubt God’s power, plan or
 Christ as demonstrated by his wanting the body of
 Moses.
 
-Jude 10
--------
+h2. Jude 10
 
 “Yet these men speak abusively against what-
 ever they do not understand; and what things
@@ -1024,13 +1012,13 @@ brought out by the Gr. term psusikos, which means
 The three primary meanings of this word (zoon) in
 the Greek are:
 
-	1. To describe angelic beings, as in Revelation
-	4:6-9; specifically, cherubs in Revelation.
-	2. To describe human beings whose mental
-	processes are handicapped by unthinking ar-
-	rogance.
-	3. To describe the Phoenix, the supernatural bird
-	of Attic literature.
+# To describe angelic beings, as in Revelation
+4:6-9; specifically, cherubs in Revelation.
+# To describe human beings whose mental
+processes are handicapped by unthinking ar-
+rogance.
+# To describe the Phoenix, the supernatural bird
+of Attic literature.
 
 The phrase “these are the very things” refers back
 to the things that they have learned only through
@@ -1042,8 +1030,7 @@ their own thoughts. So their ultimate end is the
 Lake of Fire, if unbelievers, or the “sin unto
 death,” if believers.
 
-Jude 11
--------
+h2. Jude 11
 
 “Woe to them! They have taken the way of Cain;
 they have rushed for profit into Balaam’s error;
@@ -1073,7 +1060,7 @@ system of thought that Cain used. And Cain’s sys-
 tem of thought was based upon total arrogance
 and lust for approval.
 
-###The Way of Cain
+h3. The Way of Cain
 
 Cain was the first baby in the human race, and he
 was born only once; he rejected salvation through
@@ -1133,8 +1120,7 @@ ist, whom he had cast aside. In contrast, though, it
 was easy to kill a man, his own brother, because of
 arrogance and a frustrated lust for approval.
 
-Jude 11
--------
+h2. Jude 11
 
 “Woe to them! They have taken the way of Cain;
 they have rushed for profit into Balaam’s error;
