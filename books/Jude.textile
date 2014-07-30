@@ -1,6 +1,7 @@
 ---
 title: Jude
 categories: books
+layout: lesson
 ---
 h1. Jude
 
