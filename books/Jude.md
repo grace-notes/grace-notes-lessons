@@ -27,11 +27,11 @@ The epistle was written to warn and deflect an apostasy that had already occurre
 
 The outline of the book of Jude is quite simple, and is as follows:
 
-# The introduction -- verses 1-3.
-# A warning against apostate teachers -- verses 4-7.
-# Definition and description of apostasy -- verses 8-13.
-# The judgment of apostate teachers -- verses 14-16.
-# How to defend against the teachings of apostate teachers -- verses 17-23.
+1. The introduction -- verses 1-3.
+2. A warning against apostate teachers -- verses 4-7.
+3. Definition and description of apostasy -- verses 8-13.
+4. The judgment of apostate teachers -- verses 14-16.
+5. How to defend against the teachings of apostate teachers -- verses 17-23.
 
 ## Jude 1
 
@@ -169,9 +169,9 @@ Again we have the Gr.. particle _hapax_, “once for all,” referring to the fa
 
 Three distinct classifications of apostasy are being illustrated by Jude:
 
-# Apostate believers, verse 5.
-# Apostate angels, verse 6.
-# Apostate unbelievers, verse 7.
+1. Apostate believers, verse 5.
+2. Apostate angels, verse 6.
+3. Apostate unbelievers, verse 7.
 
 Here, Jude utilizes the assembly of fallen angels or demons that had sexual relations with the women of the antediluvian generation to illustrate the principle: that people die from apostasy. An examination of the passage explains much.
 
@@ -215,10 +215,10 @@ This brings up the subject of the sections of hell.  Does hell follow the struct
 
 Webster’s New Twentieth Century Dictionary defines “hell” as follows: “in the Bible, the place where the spirits of the dead are: identified with Sheol and Hades.” “Hell” refers to Sheol in the Hebrew, and Hades in the Greek. Hades has four sections:
 
-# The Abyss, also called the Bottomless Pit: the abode of certain vicious, wild demons, having been imprisoned therein for unknown reasons. References: Luke 8:30-31; Romans 10:7; Revelation 20:1-3.
-# Tartarus: the prison of the sensual, angelo-anthropomorphic demons. I Peter 3:18-22; II Peter 2:4, Jude 6. To these demons Christ preached concerning his true humanity and the Cross while His body was three days in the tomb.
-# Torments, also called Hell: referred to in Luke 16:19-31; the abode of those guilty of the ‘unpardonable sin’ of disbelief. As Clarence Larkin so eloquently puts it, “Still occupied.” In other words, this is the holding place for unbelievers until they are cast into the Lake of Fire for all eternity.
-# Paradise, also called Abraham’s Bosom: the abode of Old Testament believers prior to the resurrection, ascension and present session of our Lord. This section was melded with heaven subsequent to the presence of Christ at the right hand of God the Father (the Session).  References: Ephesians 4:8,9,10; Luke 23:39-43.
+1. The Abyss, also called the Bottomless Pit: the abode of certain vicious, wild demons, having been imprisoned therein for unknown reasons. References: Luke 8:30-31; Romans 10:7; Revelation 20:1-3.
+2. Tartarus: the prison of the sensual, angelo-anthropomorphic demons. I Peter 3:18-22; II Peter 2:4, Jude 6. To these demons Christ preached concerning his true humanity and the Cross while His body was three days in the tomb.
+3. Torments, also called Hell: referred to in Luke 16:19-31; the abode of those guilty of the ‘unpardonable sin’ of disbelief. As Clarence Larkin so eloquently puts it, “Still occupied.” In other words, this is the holding place for unbelievers until they are cast into the Lake of Fire for all eternity.
+4. Paradise, also called Abraham’s Bosom: the abode of Old Testament believers prior to the resurrection, ascension and present session of our Lord. This section was melded with heaven subsequent to the presence of Christ at the right hand of God the Father (the Session).  References: Ephesians 4:8,9,10; Luke 23:39-43.
 
 Finally, between Paradise (Abraham’s Bosom) and Torments (Hell), according to Luke 16:26, sits “a great gulf fixed.” This, then, is hell and a portion of its residents.
 
@@ -296,11 +296,11 @@ The verb epistamai tells us that what knowledge they do have is gained through t
 
 The three primary meanings of this word (zoon) in the Greek are:
 
-# To describe angelic beings, as in Revelation
+1. To describe angelic beings, as in Revelation
 4:6-9; specifically, cherubs in Revelation.
-# To describe human beings whose mental
+2. To describe human beings whose mental
 processes are handicapped by unthinking arrogance.
-# To describe the Phoenix, the supernatural bird
+3. To describe the Phoenix, the supernatural bird
 of Attic literature.
 
 The phrase “these are the very things” refers back to the things that they have learned only through subjectivity, arrogance and lust. These things, their very way of thinking (arrogant lust), corrupt and destroy them. The verb is in the passive voice, which means that they receive destruction from their own thoughts. So their ultimate end is the Lake of Fire, if unbelievers, or the “sin unto death,” if believers.
@@ -402,24 +402,24 @@ In other words, you may have all the money you want, you may enjoy money, you ma
 
 To the unbeliever, money poses the following obstacles:
 
-# Money cannot buy salvation, I Peter 1:18,19, Mark 8:36,37. “What good is it for a man to gain the whole world, yet forfeit his soul? Or what can a man give in exchange for his soul?” Indeed, the coin of salvation is the ‘blood of Christ.’
-# The rich are apt to put their faith into money, and to attempt to purchase love, friends, sex, security, etc., through money.  Mark 10:23-25: “Jesus looked around and said to his disciples, ‘How hard it is for the rich to enter the kingdom of God!’ The disciples were amazed at his words. But Jesus said again, ‘Children, how hard it is to enter the kingdom of God! It is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God.’”
-# Money hinders unbelievers from seeking salvation, Luke 16:19-31.
-# According to Proverbs 11:4,28, and Proverbs 13:7,11, money is worthless before the Justice of God. In other words, money has no impact on God.
+1. Money cannot buy salvation, I Peter 1:18,19, Mark 8:36,37. “What good is it for a man to gain the whole world, yet forfeit his soul? Or what can a man give in exchange for his soul?” Indeed, the coin of salvation is the ‘blood of Christ.’
+2. The rich are apt to put their faith into money, and to attempt to purchase love, friends, sex, security, etc., through money.  Mark 10:23-25: “Jesus looked around and said to his disciples, ‘How hard it is for the rich to enter the kingdom of God!’ The disciples were amazed at his words. But Jesus said again, ‘Children, how hard it is to enter the kingdom of God! It is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God.’”
+3. Money hinders unbelievers from seeking salvation, Luke 16:19-31.
+4. According to Proverbs 11:4,28, and Proverbs 13:7,11, money is worthless before the Justice of God. In other words, money has no impact on God.
 
 To the saint, money also poses difficulties:
 
-# In Jude 11, our passage, the ‘error of Balaam,’ i.e., the lust for money leads to destruction.
-# In Ecclesiastes, Solomon asserts that “the love of money” (lust for money), not money itself, is meaningless, Eccl. 5:10-6:2.
-# Acts 5:1-10, states that Ananias and Sapphira, who were both believers, were guilty of both monetary lust and approval lust.
-# I Timothy 6:3-12, 17,18,19 states the principle of monetary lust.
-# James 4:13 - 5:6, teaches that monetary lust diverts believers from spiritual growth and spiritual maturity because they seek security in wealth.
+1. In Jude 11, our passage, the ‘error of Balaam,’ i.e., the lust for money leads to destruction.
+2. In Ecclesiastes, Solomon asserts that “the love of money” (lust for money), not money itself, is meaningless, Eccl. 5:10-6:2.
+3. Acts 5:1-10, states that Ananias and Sapphira, who were both believers, were guilty of both monetary lust and approval lust.
+4. I Timothy 6:3-12, 17,18,19 states the principle of monetary lust.
+5. James 4:13 - 5:6, teaches that monetary lust diverts believers from spiritual growth and spiritual maturity because they seek security in wealth.
 
 The Gr. word for “error” in Jude 11 is _plane_, and it means ‘delusion or deceit.’ And there are three ‘delusions’ associated with money:
 
-# Money is happiness, Eccl. 5:20 cf. Eccl. 6:2.
-# Money provides security, Matthew 6:24-33.
-# Money can buy anything, James 5:1-6.[^10]
+1. Money is happiness, Eccl. 5:20 cf. Eccl. 6:2.
+2. Money provides security, Matthew 6:24-33.
+3. Money can buy anything, James 5:1-6.[^10]
 
 The third attribute of apostates is now stated thusly, “they have been destroyed in Korah’s rebellion.” The rebellion of Korah was motivated by a lust for power. And the story is related by Moses in Numbers 16. The revolution had three primary co-conspirators: Dathan, Abiram and Korah.
 
@@ -526,10 +526,10 @@ The Gr. word _baptizo_ means to identify one thing with another. Homer, in the i
 
 There are many baptisms in Scripture that are dry and that are real in the sense that there is no metaphor involved.
 
-# Moses - I Cor. 10:2: “They were all baptized into Moses in the cloud and the sea.” Here, the Jews of the Exodus were ‘identified with’ Moses as he followed the cloud (the Shekinah Glory) and crossed the Red Sea dryshod.
-# Cross - Matt. 20:22: “’You don’t know what you are asking,’ Jesus said to them. ‘Can you drink the cup I am going to drink?” Here, the sins of the world are ‘identified with’ Christ on the Cross -- He is the only one qualified to drink of the cup.
-# Spirit - I Cor. 12:13; Acts 1:5: “For John baptized with water, but in a few days you will be baptized with the Holy Spirit.” (Acts 1:5) “For we were all baptized by one Spirit into one body...” (I Cor. 12:13) Here, God the Holy Spirit ‘identifies’ believers with Christ by placing them in union with Christ.
-# Fire - Matt. 3:11,12; Luke 3:16,17: “John answered them all, ‘I baptize you with water. But one more powerful than I will come, the thongs of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and with fire. His winnowing fork is in his hand to clear his threshing floor and to gather the wheat into his barn, but he will burn up the chaff with unquenchable fire.” (Luke 3:16,17) Here, the believers (wheat) are identified with Christ, and the unbelievers (chaff) are identified with fire.
+1. Moses - I Cor. 10:2: “They were all baptized into Moses in the cloud and the sea.” Here, the Jews of the Exodus were ‘identified with’ Moses as he followed the cloud (the Shekinah Glory) and crossed the Red Sea dryshod.
+2. Cross - Matt. 20:22: “’You don’t know what you are asking,’ Jesus said to them. ‘Can you drink the cup I am going to drink?” Here, the sins of the world are ‘identified with’ Christ on the Cross -- He is the only one qualified to drink of the cup.
+3. Spirit - I Cor. 12:13; Acts 1:5: “For John baptized with water, but in a few days you will be baptized with the Holy Spirit.” (Acts 1:5) “For we were all baptized by one Spirit into one body...” (I Cor. 12:13) Here, God the Holy Spirit ‘identifies’ believers with Christ by placing them in union with Christ.
+4. Fire - Matt. 3:11,12; Luke 3:16,17: “John answered them all, ‘I baptize you with water. But one more powerful than I will come, the thongs of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and with fire. His winnowing fork is in his hand to clear his threshing floor and to gather the wheat into his barn, but he will burn up the chaff with unquenchable fire.” (Luke 3:16,17) Here, the believers (wheat) are identified with Christ, and the unbelievers (chaff) are identified with fire.
 
 The concept of the Baptism of Fire is presented by Paul in II Thessalonians 1:7-9. And Matthew 24:36 presents an analogy to the Baptism of Fire. Note that this is not a passage about the Rapture of the Church. This is confirmed by the fact that at the Rapture the dead in Christ will rise first; in other words, believers are removed from the earth at the Rapture. Whereas, at the Second Advent, which Matt. 24:36ff. describe, unbelievers are removed from the earth.
 
@@ -595,7 +595,7 @@ And there were, possibly, two other apostles: Apollos, in I Cor. 4:6,9; and Timo
 {:title="Jude 18"}
 > “They said to you, ‘In the last times there will be scoffers who will follow their own ungodly desires.”
 
-Jude begins verse18 with o[ti recitativum, which utilizes the conjunction to summarize indirectly the teachings of the apostles. The apostles taught that there would be “scoffers.” The Gr. is _evmpai,kthj,_ which denotes those “who play like children.”[^19] And here the term connotes those who deride spiritual authority and endorse anarchy.
+Jude begins verse18 with o\[ti recitativum, which utilizes the conjunction to summarize indirectly the teachings of the apostles. The apostles taught that there would be “scoffers.” The Gr. is _evmpai,kthj,_ which denotes those “who play like children.”[^19] And here the term connotes those who deride spiritual authority and endorse anarchy.
 
 Next is the very interesting prepositional phrase which may be translated either “last times,” or “lowest” with reference to rank.[^20] Thus the phrase may indicate two distinct periods of apostasy, depending upon which historical dispensation is meant: in the Age of Israel the phrase denotes the final three and one-half years of the Tribulation, and its concentrated apostasy; however, during the Church Age the phrase signifies a ‘low time’ or ‘time of apostasy.’[^21] Therefore, since the reader’s of the epistle were denizens of the Church Age, the phrase alludes to any period of apostasy or false doctrines.
 
@@ -638,7 +638,7 @@ And, just as true misery resides in the soul, so also does true happiness and th
 
 [^23]: ’Then the Lord God formed [yatsar] man of dust from the ground [biological life], and breathed [xp;n++=, naphach] into his nostrils the breath of life [~yYxi: tj;v.ni, nishmat chayyim]; and man became a living being [nephesh chayyah, i.e., a soul having life].  “The verb naphach, translated ‘breathed into,’ produced nishmat chayyim, ‘the breath of life.’ Thus God directly imparted neshemah, the spark of life, to Adam’s body (Isa.  42:5). First God formed the tangible flesh, blood, and bone of biological life from the chemicals of the soil. This was only biological life, not yet human life. When God exhaled His breath into the first man, he became a ‘living soul’ in the image of God Himself.” Taken from, Thieme, Robert.  Creation, Chaos, and Restoration; privately published, page 7,26.
 
-[^24]: The Hebrew terms arB and hf[ bring out the full translation and difference. In Gen. 1:26, the word for ‘make’ is asah, which denotes the creation of the human soul according to the pattern of God’s quiddity. And in Gen. 1:27, the word for ‘made’ is bara; and it means to ‘create from nothing.’ Thus God created man’s soul from nothing and patterned it after His own essence.
+[^24]: The Hebrew terms arB and hf\[ bring out the full translation and difference. In Gen. 1:26, the word for ‘make’ is asah, which denotes the creation of the human soul according to the pattern of God’s quiddity. And in Gen. 1:27, the word for ‘made’ is bara; and it means to ‘create from nothing.’ Thus God created man’s soul from nothing and patterned it after His own essence.
 
 ### The Human Spirit
 
@@ -710,14 +710,14 @@ Here, Jude instructs his readers that some of the unbeliever/apostates will resp
 ## Jude 24 and 25
 
 {:title="Jude 24-25"}
-> “To him (God the Father) who is able (omnipotent) to keep you from falling (eternal security) and to present (to establish) you before his glorious presence without fault (blameless because of the work of Christ on the Cross) and with great joy (the extreme joy that the saints will experience in heaven alone) -- 25 to the only (the unique Person/the God-Man) God our Savior (Jesus Christ) be glory (preeminence at the right hand of God the Father), majesty (greatness), power (ruling power) and authority (ruling authority, the right to rule under primogeniture), through Jesus Christ our Lord*, before all ages (from eternity past), now (the present) and forevermore (the future)! Amen (I acknowledge it, I concede it).
+> “To him (God the Father) who is able (omnipotent) to keep you from falling (eternal security) and to present (to establish) you before his glorious presence without fault (blameless because of the work of Christ on the Cross) and with great joy (the extreme joy that the saints will experience in heaven alone) -- 25 to the only (the unique Person/the God-Man) God our Savior (Jesus Christ) be glory (preeminence at the right hand of God the Father), majesty (greatness), power (ruling power) and authority (ruling authority, the right to rule under primogeniture), through Jesus Christ our Lord, before all ages (from eternity past), now (the present) and forevermore (the future)! Amen (I acknowledge it, I concede it).”
 
 Concerning Jude 1:25, A.T. Robertson wrote, “as complete a statement of eternity as can be made in human language.”[^30]
 
 {:title="John 4:24"}
 > “God is spirit, and those who worship Him must worship in Spirit and truth.” (John 4:24)
 
-{:title="1 Cor 11:14"}
->-15 “And no wonder, for even Satan disguises himself as an angel of light. Therefore it is not surprising if his servants also disguise themselves as servants of righteousness; whose end shall be according to their deeds.” (II Corinthians 11:14,15)
+{:title="1 Cor 11:14-15"}
+> “And no wonder, for even Satan disguises himself as an angel of light. Therefore it is not surprising if his servants also disguise themselves as servants of righteousness; whose end shall be according to their deeds.” (II Corinthians 11:14,15)
 
 [^30]:  Robertson, A.T. _Word Pictures_; from Bible Works CD by Hermeneutika; version 3.5
