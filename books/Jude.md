@@ -158,7 +158,7 @@ In each picture, the parties involved received both grace warning from God and a
 
 ## Jude 5
 
-“Though you already know all this, I want to remind you that the Lord delivered his people out of Egypt, but later destroyed those who did not believe.”
+bq.:bible://jude_5 “Though you already know all this, I want to remind you that the Lord delivered his people out of Egypt, but later destroyed those who did not believe.”
 
 Again we have the Gr.. particle _hapax_, “once for all,” referring to the fact that Jude’s readers have this knowledge in their souls already -- but they are not applying it. They know it but don’t use it.  So Jude states that he will remind them that Christ, the Shekinah Glory, delivered the Jews out of bondage in Egypt. However, He also later destroyed them because of the destruction in their souls. In other words, the Jews of the Exodus generation were believers, but they failed to apply their faith. And as a result they entered believing apostasy, i.e., they destroyed their own souls through apostasy (they did not believe that God would keep His promises) and this led to their eventual physical deaths as discipline from God (the sin unto death). This double-death concept is found in the verb for “destroy,” _apollumi_ in the Gr..: the verb means to render one’s soul so useless that others can easily perceive it, and then God renders the uselessness to ruin. So soul desolation led to death.
 
