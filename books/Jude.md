@@ -2,7 +2,9 @@
 title: Jude
 categories: books
 layout: lesson
+published: true
 ---
+
 # Jude
 
 ## About the Book
@@ -94,11 +96,11 @@ The phrase “to those who have been called” refers to the concept of Election
 {:title="Jude 2"}
 > “Mercy, peace and love be yours in abundance.”
 
-The Gk. term for mercy is eleos, and refers to grace in action; this in turn sustains the practicality of the epistle. This, then, is Jude stating that the recipients of his epistle both need grace from God and need to apply grace to others. ‘Peace’ is the Gk.  eirene, which is that peace or tranquillity of mind resulting from an understanding of the grace plan of God. Agape is defined as ‘love;’ a love which is supported by integrity and is thus a virtue. This type of love is devotional in the sense that it is a power to be effectively disposed to others; i.e., it is to be applied to all without regard to merit or desert. And implicit in agape love is a lack of arrogance or hatred on the part of the one disposing the power -- and this sort of love is dependent upon the Filling of the Spirit, Rom. 5:5. “And hope does not disappoint us, because God has poured out his love into our hearts by the Holy Spirit, whom he has given us.”
+The Gk. term for mercy is ἐλεος, and refers to grace in action; this in turn sustains the practicality of the epistle. This, then, is Jude stating that the recipients of his epistle both need grace from God and need to apply grace to others. ‘Peace’ is the Gk.  εἰρενε, which is that peace or tranquillity of mind resulting from an understanding of the grace plan of God. ἀγαπε is defined as ‘love;’ a love which is supported by integrity and is thus a virtue. This type of love is devotional in the sense that it is a power to be effectively disposed to others; i.e., it is to be applied to all without regard to merit or desert. And implicit in agape love is a lack of arrogance or hatred on the part of the one disposing the power -- and this sort of love is dependent upon the Filling of the Spirit, Rom. 5:5. “And hope does not disappoint us, because God has poured out his love into our hearts by the Holy Spirit, whom he has given us.”
 
 And I John 2:5 says, “But if anyone obeys his word, God’s love is truly made complete in him.  This is how we know we are in him.”
 
-Jude desires that these three, mercy, peace and love might “be yours in abundance.” The verb for ‘abundance’ is the Gk. plethuno, and it is in the optative mood which expresses a wish or desire.
+Jude desires that these three, mercy, peace and love might “be yours in abundance.” The verb for ‘abundance’ is the Gk. πληθύνω, and it is in the optative mood which expresses a wish or desire.
 
 The word means to cause to increase remarkably, and thus is not adding something, but multiplying. Jude, then, wishes that these virtues might be multiplied in the souls and lives of his readers.
 
@@ -107,15 +109,15 @@ The word means to cause to increase remarkably, and thus is not adding something
 {:title="Jude 3"}
 > “Dear friends, although I was very eager to write to you about the salvation we share, I felt I had to write and urge you to contend for the faith that was once for all entrusted to the saints.”
 
-The Gk. for ‘dear friends’ is agapetos, and refers to the concept of Positional Sanctification, that is, the saints’ sharing of Christ’s sonship, heirship, etc.  Then Jude states that his original purpose in writing the epistle was to expound on the subject of salvation; however, Jude “felt” a need or felt constrained to write about apostasy. This need was the outworking of God the Holy Spirit as He inspired Jude in writing the epistle. The doctrinal concept of inspiration is found in II Timothy 3:16; the Gk.  term is theopneustos, ‘God-breathed.’
+The Gk. for ‘dear friends’ is ἀγαπητός, and refers to the concept of Positional Sanctification, that is, the saints’ sharing of Christ’s sonship, heirship, etc.  Then Jude states that his original purpose in writing the epistle was to expound on the subject of salvation; however, Jude “felt” a need or felt constrained to write about apostasy. This need was the outworking of God the Holy Spirit as He inspired Jude in writing the epistle. The doctrinal concept of inspiration is found in II Timothy 3:16; the Gk.  term is θεόπνευστος, ‘God-breathed.’
 
 So the subject matter has altered from salvation to “urging them to contend for the faith.”
 
-‘To urge’ is the Gk. parakaleo, ‘to admonish or to comfort.’ And from what source do both admonishment and comfort come? From love. Thus because Jude loves them as fellow saints, he is about to admonish them ‘to contend’ for the faith. The word ‘contend’ connotes a boxing concept -- that of being repeatedly knocked down yet always getting back up to continue the fight.
+‘To urge’ is the Gk. παρακαλέω, ‘to admonish or to comfort.’ And from what source do both admonishment and comfort come? From love. Thus because Jude loves them as fellow saints, he is about to admonish them ‘to contend’ for the faith. The word ‘contend’ connotes a boxing concept -- that of being repeatedly knocked down yet always getting back up to continue the fight.
 
-And the word for faith is pistis; and here it functions as the metonymy of the adjunct, which is some part of the subject being put for the subject itself, such as the contents for the container; i.e., the milk for the milk carton. Here we have the application of the concept being put for the theory of the concept. In other words, ‘contending for the faith’: that is, the true doctrine of Christ (stop fooling around with Gnosticism which says that Christ did not exist, and get back to the true doctrine of Christ, which is salvation through the Cross, resurrection, ascension, session).
+And the word for faith is πιστις; and here it functions as the metonymy of the adjunct, which is some part of the subject being put for the subject itself, such as the contents for the container; i.e., the milk for the milk carton. Here we have the application of the concept being put for the theory of the concept. In other words, ‘contending for the faith’: that is, the true doctrine of Christ (stop fooling around with Gnosticism which says that Christ did not exist, and get back to the true doctrine of Christ, which is salvation through the Cross, resurrection, ascension, session).
 
-_ἅπαξ_ is the Gr. particle for ‘once.’ And John Albert Bengel says of it, “the particle is cogent: and no other faith will be given.”[^4] In other words, once is sufficient; no other is needed.
+ἅπαξ is the Gr. particle for ‘once.’ And John Albert Bengel says of it, “the particle is cogent: and no other faith will be given.”[^4] In other words, once is sufficient; no other is needed.
 
 And this faith or true doctrine of Christ “was entrusted to the saints.” To ‘entrust’ is ‘to give over verbally from the ultimate source of God.’ In other words, the doctrine of Christ, the faith, was given to believers by means of God the Holy Spirit filling the apostles and writers of Scripture. Whereas the doctrines being taught by the Gnostics are delivered by false teachers who are not filled with the Spirit. And to whom was the doctrine of Christ given? To the saints, the holy ones. And why may believers be described as ‘holy?’ Because at the point of salvation the perfect Righteousness of Christ was credited to the believer. And the Righteousness of Christ is holy.
 
@@ -126,7 +128,7 @@ And this faith or true doctrine of Christ “was entrusted to the saints.” To 
 {:title="Jude 4"}
 > “For certain men whose condemnation was written about long ago have secretly slipped in among you. They are godless men, who change the grace of our God into a license for immorality and deny Jesus Christ our only Sovereign and Lord.”
 
-The designation ‘certain men’, _τινες ἄνθρωποι_ in the Gr.., refers to the characteristics of the false teachers, the teachers of Gnosticism. These characteristics include:
+The designation ‘certain men’, τινες ἄνθρωποι in the Gr.., refers to the characteristics of the false teachers, the teachers of Gnosticism. These characteristics include:
 
 * the teaching of false doctrine, I Tim. 4:1, 3:5-7
 * the misrepresentation of themselves as apostles, II Cor. 11:13-15
@@ -136,7 +138,7 @@ The designation ‘certain men’, _τινες ἄνθρωποι_ in the Gr.., r
 
 Their “condemnation was written about long ago” refers to the writings of the Old Testament prophets Ezekiel and Jeremiah. Both Jeremiah and Ezekiel prophesied concerning apostate, unbelieving, false teachers. And their judgment was recorded in the past, and in Matthew 25:31-41, which says in verse 41, “Then he will say to those on his left (the goats), ‘Depart from me, you who are cursed, into the eternal fire prepared for the devil and his angels.”
 
-These false teachers are said to have “secretly slipped in among you.” This refers to their method of approach, which is ‘dishonest infiltration.’ And they are designated _ἀσεβεῖς_ in the Gr.., “ungodly.” They are unbelievers. After infiltrating, they “change” or pervert the grace of God. These Gnostics substitute their false doctrines for the true doctrines of Christ. The Gr.. _ἀσέλγεια_ describes that which they change grace into: “lasciviousness,” a reference to the phallic cult, homosexuality, lesbianism, free-love, etc. And by perverting the grace doctrines of God, they “deny” (Gr.. _ἀρνεομαι_) the only God: that is, God the Father and the _κυριος_, our Lord Jesus Christ.
+These false teachers are said to have “secretly slipped in among you.” This refers to their method of approach, which is ‘dishonest infiltration.’ And they are designated ἀσεβεῖς in the Gr.., “ungodly.” They are unbelievers. After infiltrating, they “change” or pervert the grace of God. These Gnostics substitute their false doctrines for the true doctrines of Christ. The Gr.. ἀσέλγεια describes that which they change grace into: “lasciviousness,” a reference to the phallic cult, homosexuality, lesbianism, free-love, etc. And by perverting the grace doctrines of God, they “deny” (Gr.. ἀρνεομαι) the only God: that is, God the Father and the κυριος, our Lord Jesus Christ.
 
 The question arises, how does substituting sexual perversities renounce or deny the grace of God?  Illustration: one sect of Gnostics was called the Ophites, or serpent worshippers. They held that the Lord in the Garden of Eden was the all-good and all-wise Deity (not God or Yahweh), who took compassion on Adam and Eve and sent the serpent, Satan, to induce them to eat of the tree of the knowledge of Good and Evil; thus, they would escape the ignorance in which Yahweh, the demiurge, tried to hold them.
 
@@ -160,7 +162,7 @@ In each picture, the parties involved received both grace warning from God and a
 
 bq.:bible://jude_5 “Though you already know all this, I want to remind you that the Lord delivered his people out of Egypt, but later destroyed those who did not believe.”
 
-Again we have the Gr.. particle _ἁπαξ_, “once for all,” referring to the fact that Jude’s readers have this knowledge in their souls already -- but they are not applying it. They know it but don’t use it.  So Jude states that he will remind them that Christ, the Shekinah Glory, delivered the Jews out of bondage in Egypt. However, He also later destroyed them because of the destruction in their souls. In other words, the Jews of the Exodus generation were believers, but they failed to apply their faith. And as a result they entered believing apostasy, i.e., they destroyed their own souls through apostasy (they did not believe that God would keep His promises) and this led to their eventual physical deaths as discipline from God (the sin unto death). This double-death concept is found in the verb for “destroy,” _ἀπολλυμι_ in the Gr..: the verb means to render one’s soul so useless that others can easily perceive it, and then God renders the uselessness to ruin. So soul desolation led to death.
+Again we have the Gr.. particle ἁπαξ, “once for all,” referring to the fact that Jude’s readers have this knowledge in their souls already -- but they are not applying it. They know it but don’t use it.  So Jude states that he will remind them that Christ, the Shekinah Glory, delivered the Jews out of bondage in Egypt. However, He also later destroyed them because of the destruction in their souls. In other words, the Jews of the Exodus generation were believers, but they failed to apply their faith. And as a result they entered believing apostasy, i.e., they destroyed their own souls through apostasy (they did not believe that God would keep His promises) and this led to their eventual physical deaths as discipline from God (the sin unto death). This double-death concept is found in the verb for “destroy,” ἀπολλυμι in the Gr..: the verb means to render one’s soul so useless that others can easily perceive it, and then God renders the uselessness to ruin. So soul desolation led to death.
 
 ## Jude 6
 
@@ -175,7 +177,7 @@ Three distinct classifications of apostasy are being illustrated by Jude:
 
 Here, Jude utilizes the assembly of fallen angels or demons that had sexual relations with the women of the antediluvian generation to illustrate the principle: that people die from apostasy. An examination of the passage explains much.
 
-The term for ‘angels’ is aggelos, and refers to the Bene ha’Elohim, ‘the sons of God,’ in the Old Testament. This specific reference is found in Gen.  6:2,4, Job 1:6; 2:1; 38:7; Psalm 29:1, 89:6; and Daniel 3:25 (sons of El). The phrase is particular to angels either fallen or elect. Job 38:7b, reads as follows, “And all the sons of God (bene Elohim) shouted for joy?” And Job 38:7 refers specifically to the elementary establishment of the earth, and this would have been prior to the stumble of Satan.
+The term for ‘angels’ is ἀγγελος, and refers to the Bene ha’Elohim, ‘the sons of God,’ in the Old Testament. This specific reference is found in Gen.  6:2,4, Job 1:6; 2:1; 38:7; Psalm 29:1, 89:6; and Daniel 3:25 (sons of El). The phrase is particular to angels either fallen or elect. Job 38:7b, reads as follows, “And all the sons of God (bene Elohim) shouted for joy?” And Job 38:7 refers specifically to the elementary establishment of the earth, and this would have been prior to the stumble of Satan.
 
 This assembly of angels has been imprisoned in Tartarus by way of immediate judgment. Their final judgment place will, of course, be the Lake of Fire. These demons, upon the instructions of Satan, assumed human form and copulated with the females of the Noahic period. The angelo-anthropomorphic offspring are denominated the Nephilim in Holy Scripture. Because of Satan’s knowledge of the prophecy of Gen. 3:15, that the son or human portion of the theanthropic person was to come and prevail over Satan’s cosmos diabolicus, Satan determined to corrupt the genetics of the human race, thus despoiling the ‘human’ portion of our Lord.
 
@@ -183,7 +185,7 @@ The resulting judgment from God destroyed all of mankind but eight (those on Noa
 
 II Peter 2:4, and I Peter 3:18-22 also make reference to the demons locked in Tartarus. And exegesis of Jude 6 provides many other details, such as:
 
-_τερεω_, in the Gr. ‘to guard,’ is used twice in Jude 6.  The first time describes the fact that the fallen angels did not “guard” or keep their “positions of authority.” This means that they violated God’s divine law of the segregation of species. They lusted after the females of another species. They then “abandoned their own home,” which means they left their normal ‘bodies’, or form of existence, and their place of habitation, heaven, and assumed a different form. They ‘donned’ human appearance. According to E.W. Bullinger, the word _oiketerion_, “home,” is used only in II Cor. 5:2 and Jude 6; “both times in this sense: one of the resurrection body of men, and the other of the spirit body of angels.”[^6] The second usage of _tereo_ contraposes the first: since they did not guard, they received ‘guarding’ from God.
+τερεω, in the Gr. ‘to guard,’ is used twice in Jude 6.  The first time describes the fact that the fallen angels did not “guard” or keep their “positions of authority.” This means that they violated God’s divine law of the segregation of species. They lusted after the females of another species. They then “abandoned their own home,” which means they left their normal ‘bodies’, or form of existence, and their place of habitation, heaven, and assumed a different form. They ‘donned’ human appearance. According to E.W. Bullinger, the word οἰκετεριον, “home,” is used only in II Cor. 5:2 and Jude 6; “both times in this sense: one of the resurrection body of men, and the other of the spirit body of angels.”[^6] The second usage of τερεω contraposes the first: since they did not guard, they received ‘guarding’ from God.
 
 The Gr. word for “abandoned” or “left” is exceptional. It is not simply ‘leaving,’ which would be _λειπω_. Instead it is the term _ἀπολειπω_, which refers to an unlawful violation of the authority of their own bodies.
 
