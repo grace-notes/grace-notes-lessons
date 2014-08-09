@@ -399,7 +399,7 @@ _Giving_ is a part of the concept of money. II Corinthians 8,9, assert that givi
 
 _Love of money_, or _money as god_ is indicative of materialism lust, and makes the saint a slave to money lust rather than the master of money. Matthew 6:24, Luke 16:9,11,13.
 
-bq. “No one can serve two masters. Either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve both God and Money.”
+> “No one can serve two masters. Either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve both God and Money.”
 
 In other words, you may have all the money you want, you may enjoy money, you may use money as your slave, but God must have the place of highest priority in the saint’s life.
 
@@ -656,7 +656,7 @@ The believer is spiritually regenerated (“born again”) at the moment of salv
 
 The Greek term _evpi,gnwsij_ establishes the fact that the human spirit can process and remember spiritual information. The term is “used in the N.T. of the knowledge of things ethical and divine.”[^26] The following passages teach this principle: Philippians 1:9, Colossians 3:10, Romans 10:2, Romans 3:20, Ephesians 1:17, 4:13, II Peter 1:2,8, 2:20.
 
-bq. “I keep asking that the God of our Lord Jesus Christ, the glorious Father, may give you the Spirit (human spirit) of wisdom and revelation, so that you may know him better.”
+> “I keep asking that the God of our Lord Jesus Christ, the glorious Father, may give you the Spirit (human spirit) of wisdom and revelation, so that you may know him better.”
 
 The spiritual growth and maturity of the believer is determined by the amount of spiritual information stored in the human spirit, Job 32:8, Romans 8:16. Job 32:8 says, “But it is the spirit in a man, the breath of the Almighty, that gives him understanding.”
 
