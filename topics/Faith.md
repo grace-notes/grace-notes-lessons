@@ -1,7 +1,7 @@
 ---
 title: Faith
 categories: topics
-template: lesson
+layout: lesson
 published: true
 ---
 
