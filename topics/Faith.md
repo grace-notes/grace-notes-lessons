@@ -1,5 +1,6 @@
 ---
 title:Faith
+---
 
 
 ## Belief and Believing
