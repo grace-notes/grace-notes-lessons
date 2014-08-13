@@ -1,6 +1,8 @@
 ---
 title: Faith
 categories: topics
+template: lesson
+published: true
 ---
 
 
