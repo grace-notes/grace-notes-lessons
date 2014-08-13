@@ -1,5 +1,6 @@
 ---
 title: Faith
+categories: topics
 ---
 
 
@@ -287,19 +288,24 @@ representative Bible passages.
 In the Greek language of the New Testament there are five words which
 are rendered faith in the King James Version. They are:
 
-πιστις, noun, meaning faith; faithful; reliable; that which
+πιστις
+: noun, meaning faith; faithful; reliable; that which
 is believed, and, with the definite article, doctrine.
 
-πιστος (pistos), adjective, meaning dependable; inspiring of trust;
+πιστος
+: adjective, meaning dependable; inspiring of trust;
 believing.
 
-πιστευω (pisteuo), verb, meaning to believe; to be convinced.
+πιστευω
+: verb, meaning to believe; to be convinced.
 
-πειθω (peitho), verb, meaning to obey in the present tense; to be
+πειθω
+: verb, meaning to obey in the present tense; to be
 persuaded in the aorist tense; to have confidence in the perfect tense;
 faith in all tenses.
 
-πιστοω (pistoo), verb, meaning to show oneself faithful; to feel
+πιστοω
+: verb, meaning to show oneself faithful; to feel
 confidence.
 
 In the Hebrew of the Old Testament there are ten words which are
