@@ -260,30 +260,30 @@ believer's ability to use faith. Several important factors in the
 development of Christian faith are listed here along with some
 representative Bible passages.
 
-- Faith requires the continuous intake of truth from the word of God.
-  "...faith cometh by hearing and hearing by the word of God...",
-  Rom. 10:17.
+-  Faith requires the continuous intake of truth from the word of God.
+   "...faith cometh by hearing and hearing by the word of God...",
+   Rom. 10:17.
 
-  Faith is not a fruit of the Holy Spirit.
+   Faith is not a fruit of the Holy Spirit.
 
-- Faith must be exercised daily by using faith rest principles in day to
-  day living, "...we who have believed do enter into rest...", Heb. 4:1–3;
-  and by using faith and patience in all situations, "...the testing of
-  your faith produces endurance.", James 1:3.
+-  Faith must be exercised daily by using faith rest principles in day to
+   day living, "...we who have believed do enter into rest...", Heb. 4:1–3;
+   and by using faith and patience in all situations, "...the testing of
+   your faith produces endurance.", James 1:3.
 
-- Applied knowledge overflowing from the human spirit, which refers to
-  all witnessing, requires the exercise of faith. "...that Christ may
-  dwell in your hearts by faith...", Eph. 3:17-20.
+-  Applied knowledge overflowing from the human spirit, which refers to
+   all witnessing, requires the exercise of faith. "...that Christ may
+   dwell in your hearts by faith...", Eph. 3:17-20.
 
-- Moving towards maturity includes the development of great faith.
-  "...this is the victory that overcomes the world, our faith...",
-  1 John 5:4, 5; Heb. 11:6.
+-  Moving towards maturity includes the development of great faith.
+   "...this is the victory that overcomes the world, our faith...",
+   1 John 5:4, 5; Heb. 11:6.
 
-- Daily occupation with the Lord Jesus Christ completes faith. "Looking
-  unto Jesus, the author and perfecter of faith...", Heb. 12:2.
+-  Daily occupation with the Lord Jesus Christ completes faith. "Looking
+   unto Jesus, the author and perfecter of faith...", Heb. 12:2.
 
-- Undeserved suffering both tests and strengthens faith. "...the proof
-  of your faith...", 1 Peter 1:7, 8.
+-  Undeserved suffering both tests and strengthens faith. "...the proof
+   of your faith...", 1 Peter 1:7, 8.
 
 **The word faith in the Bible**
 
