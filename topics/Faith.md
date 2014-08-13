@@ -1,5 +1,5 @@
 ---
-title:Faith
+title: Faith
 ---
 
 
