@@ -249,7 +249,7 @@ growing spiritually receives continuous verification that the divine
 principles upon which he bases his life are perfectly valid,
 Eph. 4:11–16.
 
-### How to have strong faith
+## How to have strong faith
 
 The strongest, best established faith is that which is the result of
 Christian edification, that process by which a believer is rooted and
