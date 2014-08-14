@@ -5,18 +5,15 @@ layout: lesson
 published: true
 ---
 
-
 ## Belief and Believing
 
 One of the most important considerations in the Christian way of life is
 the subject of the believer's faith. Several questions are always
 paramount in a person's thinking about faith, such as:
 
-What is faith?
-
-How does a person exercise faith?
-
-How can we have stronger faith?
+* What is faith?
+* How does a person exercise faith?
+* How can we have stronger faith?
 
 You will occasionally hear a person say something like this, "I do not
 believe anything that I can not see or feel." Or, "You really can not
@@ -62,7 +59,7 @@ obtain salvation. The believer can use faith to acquire knowledge of
 Bible doctrine and to make application of those principles in his daily
 walk with the Lord.
 
-**Faith and the Study of History**
+## Faith and the Study of History
 
 A person who studies the past, and who writes about it, is continually
 involved with the concept of faith. First, he must decide which of his
@@ -76,7 +73,7 @@ belief, their faith, in the propositions he sets forth. A careful
 student of history will have faith only in historians who meet his
 standards for honesty.
 
-The Common Historical Bias
+### The Common Historical Bias
 
 But there are many historians, and other people, of course, whose
 opinions about historical facts are colored by their religious and anti
@@ -98,7 +95,7 @@ beginning his study with the recorded historical data and an open mind,
 this individual precludes a balanced approach by a sort of metaphysical
 speculation.
 
-**Valid Historical Methods**
+### Valid Historical Methods
 
 All arguments and systems begin with presuppositions including the
 Christian system. This does not mean that all presuppositions that one
@@ -125,7 +122,7 @@ plausibility, the believability, of history depends on the
 trustworthiness of the witnesses, not upon the erudition of the
 historian.
 
-History and Bible Study
+### History and Bible Study
 
 Studying the Bible in the twentieth century involves a great deal of
 intense historical scholarship. One begins by placing some confidence,
@@ -152,9 +149,9 @@ the teaching, by claiming the promise or by obeying the commands given.
 As each new idea is tested and put into practice, it becomes part of the
 foundation for further learning and spiritual growth.
 
-**HOW THE BELIEVER USES FAITH**
+## HOW THE BELIEVER USES FAITH
 
-**Faith Compared with Empiricism and Rationalism**
+### Faith Compared with Empiricism and Rationalism
 
 The Biblical concept of faith is that it amounts to complete confidence
 in something for which there is no empirical or rational proof
@@ -184,7 +181,7 @@ In rationalism, logic produces documentation or refutation of a point of
 view. Both empiricism and rationalism are very useful in learning; but
 neither is equivalent to faith.
 
-**Faith Used in Learning**
+### Faith Used in Learning
 
 Faith can also be described as a method of perception, or learning,
 which accepts an established criterion as the basis of reality. It is
@@ -214,7 +211,7 @@ understanding of what faith is and how it is used. Faith is:
 experimental proof
 - Acceptance of an established criterion as the basis of reality
 
-**The Christian's Faith in the Bible**
+### The Christian's Faith in the Bible
 
 The established criterion which the Christian accepts by faith is that
 the Bible is the word of God. The Christian accepts the Bible as being
@@ -250,7 +247,7 @@ growing spiritually receives continuous verification that the divine
 principles upon which he bases his life are perfectly valid,
 Eph. 4:11–16.
 
-**How to have strong faith**
+### How to have strong faith
 
 The strongest, best established faith is that which is the result of
 Christian edification, that process by which a believer is rooted and
@@ -262,8 +259,7 @@ representative Bible passages.
 
 -  Faith requires the continuous intake of truth from the word of God.
    "...faith cometh by hearing and hearing by the word of God...",
-   Rom. 10:17.
-
+   Rom. 10:17. 
    Faith is not a fruit of the Holy Spirit.
 
 -  Faith must be exercised daily by using faith rest principles in day to
@@ -285,7 +281,7 @@ representative Bible passages.
 -  Undeserved suffering both tests and strengthens faith. "...the proof
    of your faith...", 1 Peter 1:7, 8.
 
-**The word faith in the Bible**
+## The word faith in the Bible
 
 In the Greek language of the New Testament there are five words which
 are rendered faith in the King James Version. They are:
