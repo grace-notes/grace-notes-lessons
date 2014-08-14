@@ -5,6 +5,8 @@ layout: lesson
 published: true
 ---
 
+# Faith
+
 ## Belief and Believing
 
 One of the most important considerations in the Christian way of life is
